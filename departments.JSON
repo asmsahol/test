@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Orphanage",
+    "description": "Assalamualaikum, on behalf of Khademul Qur'an Islamia Madrasa, East RajarBagh, Basabo Dhaka, Bangladesh Humanthropy is raising fund for 3 months expenses  to help the madrasa with its basic needs. This ",
+    "img": "./images/department-1.jpg",
+    "department": "Orphanage",
+    "serviceTime": "35 years"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "description": "Alia-madrasa-based education became widely popular among common Muslims. Privately managed Alia madrasas were established all over the subcontinent. There are presently 10,450 Alia madrasas in operation in ",
+    "img": "./images/department-2.jpg",
+    "department": "Computer training",
+    "serviceTime": "12 years"
+  },
+  {
+    "id": 3,
+    "name": "Qaumi Section",
+    "description": "The decision means the Dawra-e-Hadith degree holders will be seen as having master's degree in Islamic Studies or Arabic and can apply for jobs meant for master's degree holders.",
+    "img": "./images/department-3.jpg",
+    "department": "Qaumi",
+    "serviceTime": "12 years"
+  },
+  {
+    "id": 4,
+    "name": "Kinder Garten",
+    "description": "Ebtedayee Exam Routine 2021. Ebtedayee Madrasa and Primary School Certificate (PSC) equivalent exam the largest public examinations in Bangladesh may be started from 2021.",
+    "img": "./images/services-2.jpg",
+    "department": "Ebtedayee",
+    "serviceTime": "15 years"
+  },
+  {
+    "id": 5,
+    "name": "Alia",
+    "description": "Alia Madrasah was established in 1780 by British government and formed Madrasah education Board of Bengal. Madrasah Education was then started formally. Consequently, Madrasah Education was reformed.",
+    "img": "./images/department-5.jpg",
+    "department": "Alia Section",
+    "serviceTime": "14 years"
+  },
+  {
+    "id": 6,
+    "name": "Computer Science",
+    "description": "Madrasah Education Board approved the permission/recognition/renewal of Dakhil (S.S.C level) Alim (H.S.C level) according the rules of Govt.",
+    "img": "./images/department-6.jpg",
+    "department": "Alia Section",
+    "serviceTime": "14 years"
+  },
+  {
+    "id": 8,
+    "name": "Farming",
+    "description": "As a learning solutions provider for many of the industry's top vendors, such as Microsoft and Cisco, New Horizons Dhaka is positioned to offer the latest authorized curriculum delivered",
+    "img": "./images/department-8.jpg",
+    "department": "Computer training",
+    "serviceTime": "12 years"
+  },
+  {
+    "id": 9,
+    "name": "Animal",
+    "description": "The paper examines distribution, availability, output growth and planning performance of the livestock sector in Bangladesh over the past sixty years. The livestock resources are relatively well",
+    "img": "./images/department-9.jpg",
+    "department": "Alia Section",
+    "serviceTime": "14 years"
+  },
+  {
+    "id": 10,
+    "name": "Agriculture",
+    "description": "Ebtedayee Exam Routine 2021. Ebtedayee Madrasa and Primary School Certificate (PSC) equivalent exam the largest public examinations in Bangladesh may be started from 2021.",
+    "img": "./images/department-10.jpg",
+    "department": "Ebtedayee",
+    "serviceTime": "15 years"
+  },
+  {
+    "id": 11,
+    "name": "Animal",
+    "description": "id-e-Nababi after performing Hizrat (emigration to Medina). Besides, the Masjid-e-Nababi (622 AD) and 9 other mosques of Medina were also used as education centres. ",
+    "img": "./images/department-11.jpg",
+    "department": "Alia Section",
+    "serviceTime": "14 years"
+  },
+  {
+    "id": 12,
+    "name": "Gardening",
+    "description": "ts of Class VII Maryam, Shanto, Bristi, Biplob, Happy, Asif, Tarek, Hridoy, Sajibur, Zakia, Suchana, Raziful, Eva, Bithi and Kajal said that saving one taka every day from tiffin ",
+    "img": "./images/department-12.jpg",
+    "department": "Ebtedayee",
+    "serviceTime": "15 years"
+  },
+  {
+    "id": 7,
+    "name": "Tailor Science",
+    "description": "Best Tailors company Bangladesh, best tailors in Bangladesh, best tailors in dhaka, mens tailor in Bangladesh, mens suits tailor in Bangladesh, tailors in Bangladesh, top ten tailors in B",
+    "img": "./images/department-6.jpg",
+    "department": "Kinder Garten",
+    "serviceTime": "10 years"
+  }
+]
